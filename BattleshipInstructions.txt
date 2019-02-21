@@ -1,0 +1,19 @@
+*****************************************************
+		      BATTLESHIP
+*****************************************************
+Created by Grant Novota
+
+*This is a single player Battleship game*
+Instructions:
+1) 4 ships of varying lengths are hidden randomly on the GameBoard:
+	Destroyer - 2
+	Cruiser - 3
+	Submarine - 3
+	Carrier - 5
+2) Click on the grid to make your guess.
+	try to avoid clicking the same spot twice, it may break the game
+3) Hits are marked with RED and misses with GREEN.
+4) Once all ships have been sunk the game is over.
+5) Try to sink all of the ships in the least amount of guesses as possible.
+
+
